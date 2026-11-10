@@ -6,6 +6,7 @@ Este repositório reúne roteiros, bíblias de série, prompts, ferramentas de e
 
 ## Estrutura
 
+- `agentes/` — função e instruções de trabalho de cada especialista da equipe
 - `01-tendencias/` — levantamentos de formato, com fonte e data da pesquisa
 - `02-ideias-aprovadas/` — conceitos aprovados para produção
 - `03-roteiros/` — roteiros dos episódios
