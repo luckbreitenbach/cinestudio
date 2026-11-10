@@ -1,0 +1,34 @@
+[Script Info]
+Title: Avisos à População — Aviso nº 2
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Osvaldo,PT Serif,40,&H00B0D9E8,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,2.4,2,80,80,310,1
+Style: Interferencia,PT Serif,40,&H00B0D9E8,&H000000FF,&H00000000,&H80000000,0,1,0,0,100,100,0.4,0,1,0,2.4,2,80,80,310,1
+Style: Cartela,PT Serif,38,&H00B0D9E8,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,2.4,1,90,540,430,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Osvaldo,,0,0,0,,Se sobrar uma pessoa à sua mesa,
+Dialogue: 0,0:00:03.00,0:00:06.00,Osvaldo,,0,0,0,,não conte de novo.
+Dialogue: 0,0:00:06.00,0:00:09.00,Osvaldo,,0,0,0,,A primeira conta é a certa.
+Dialogue: 0,0:00:10.00,0:00:12.10,Cartela,,0,0,0,,Boa noite, Vila Aurora.
+Dialogue: 0,0:00:16.00,0:00:21.00,Osvaldo,,0,0,0,,Na última terça-feira, a família Moraes,\Nda Rua das Paineiras,
+Dialogue: 0,0:00:21.00,0:00:24.00,Osvaldo,,0,0,0,,recebeu sua Visita, conforme previsto.
+Dialogue: 0,0:00:24.00,0:00:27.00,Osvaldo,,0,0,0,,A mesa estava arrumada.
+Dialogue: 0,0:00:27.00,0:00:30.00,Osvaldo,,0,0,0,,A Prefeitura parabeniza a família.
+Dialogue: 0,0:00:30.00,0:00:35.00,Osvaldo,,0,0,0,,Durante o jantar, não conte os presentes\Nem voz alta.
+Dialogue: 0,0:00:35.00,0:00:39.00,Osvaldo,,0,0,0,,As Visitas gostam de ser incluídas.
+Dialogue: 0,0:00:39.00,0:00:43.00,Osvaldo,,0,0,0,,Se uma criança contar, não a corrija.
+Dialogue: 0,0:00:43.00,0:00:49.00,Osvaldo,,0,0,0,,A família Moraes informa que não precisa\Nmais da cadeira vazia.
+Dialogue: 0,0:00:49.00,0:00:52.00,Osvaldo,,0,0,0,,Ela já está ocupada.
+Dialogue: 0,0:00:52.00,0:00:55.00,Osvaldo,,0,0,0,,A Prefeitura agradece a colaboração.
+Dialogue: 0,0:00:55.00,0:00:57.00,Osvaldo,,0,0,0,,Boa noite, Neide.
+Dialogue: 0,0:00:57.00,0:00:59.00,Osvaldo,,0,0,0,,Boa noite, Vila Aurora.
+Dialogue: 0,0:01:00.00,0:01:03.00,Interferencia,,0,0,0,,{\i1}Aviso número três.{\i0}
+Dialogue: 0,0:01:03.00,0:01:07.00,Interferencia,,0,0,0,,{\i1}Quando a sirene tocar,\Nnão espere ninguém.{\i0}

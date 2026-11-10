@@ -1,0 +1,135 @@
+{
+  "episodio": "fitas-da-serra-ep01",
+  "titulo": "A Figueira",
+  "data_timestamp": "AGO 14 1994",
+  "resolucao": [1080, 1920],
+  "fps": 30,
+  "fonte_osd": "fonts/VT323-Regular.ttf",
+  "fonte_simbolos": "fonts/DejaVuSans.ttf",
+  "fonte_alternativa": "fonts/ShareTechMono-Regular.ttf",
+  "entrada_cenas": "/workspace/cinestudio/05-cenas/fitas-da-serra-ep01",
+  "planos": [
+    {
+      "id": 1,
+      "arquivo": "plano-01.mp4",
+      "inicio_timecode": "03:31:00",
+      "duracao_s": 3,
+      "modo": "PLAY",
+      "notas": "POV oco da árvore / gancho"
+    },
+    {
+      "id": 2,
+      "arquivo": null,
+      "tipo": "cartela_azul",
+      "inicio_timecode": "17:40:00",
+      "duracao_s": 6,
+      "modo": "REC",
+      "textos": [
+        "TV MANTIQUEIRA · CANAL 7",
+        "CAUSOS DA SERRA",
+        "BRUTO · NÃO EDITAR",
+        "FITA 01 · CAPELA DO SERENO"
+      ]
+    },
+    {
+      "id": 3,
+      "arquivo": "plano-03.mp4",
+      "inicio_timecode": "17:42:00",
+      "duracao_s": 7,
+      "modo": "REC"
+    },
+    {
+      "id": 4,
+      "arquivo": "plano-04.mp4",
+      "inicio_timecode": "17:58:00",
+      "duracao_s": 8,
+      "modo": "REC"
+    },
+    {
+      "id": 5,
+      "arquivo": "plano-05.mp4",
+      "inicio_timecode": "18:36:00",
+      "duracao_s": 7,
+      "modo": "REC"
+    },
+    {
+      "id": 6,
+      "arquivo": "plano-06.mp4",
+      "inicio_timecode": "18:51:00",
+      "duracao_s": 7,
+      "modo": "REC"
+    },
+    {
+      "id": 7,
+      "arquivo": "plano-07.mp4",
+      "inicio_timecode": "18:53:00",
+      "duracao_s": 7,
+      "modo": "REC"
+    },
+    {
+      "id": 8,
+      "arquivo": "plano-08.mp4",
+      "inicio_timecode": "18:55:00",
+      "duracao_s": 7,
+      "modo": "REC"
+    },
+    {
+      "id": 9,
+      "arquivo": "plano-04.mp4",
+      "inicio_timecode": "17:59:00",
+      "duracao_s": 7,
+      "modo": "PLAY",
+      "efeito_entrada": "rewind",
+      "notas": "playback da entrevista"
+    },
+    {
+      "id": 10,
+      "arquivo": "plano-10.mp4",
+      "inicio_timecode": "03:12:00",
+      "duracao_s": 8,
+      "modo": "REC"
+    },
+    {
+      "id": 11,
+      "arquivo": "plano-11.mp4",
+      "inicio_timecode": "03:13:00",
+      "duracao_s": 8,
+      "modo": "REC"
+    },
+    {
+      "id": 12,
+      "arquivo": "plano-12.mp4",
+      "inicio_timecode": "03:14:00",
+      "duracao_s": 8,
+      "modo": "REC"
+    },
+    {
+      "id": 13,
+      "arquivo": "plano-01.mp4",
+      "inicio_timecode": "03:31:00",
+      "duracao_s": 5,
+      "modo": "PLAY",
+      "efeito_saida": "tela_azul",
+      "notas": "fecha o círculo + cartelas finais"
+    }
+  ],
+  "cartelas_finais": [
+    {
+      "texto": "Marta Lins e Sebastião Prado\nnunca foram encontrados.",
+      "duracao_s": 2.0,
+      "fundo": "preto"
+    },
+    {
+      "texto": "Eduardo Reis entregou outras 11 fitas\nà polícia em 1995.",
+      "duracao_s": 2.0,
+      "fundo": "preto"
+    },
+    {
+      "texto": "FITA 02",
+      "duracao_s": 0.8,
+      "fundo": "preto",
+      "flash_antes": true
+    }
+  ],
+  "cartela_abertura": "Esta fita foi encontrada dentro de uma árvore."
+}

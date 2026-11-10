@@ -1,0 +1,60 @@
+{
+  "comum": {
+    "largura": 1080,
+    "altura": 1920,
+    "fps": 30,
+    "pix_fmt": "yuv420p",
+    "video_codec": "libx264",
+    "profile": "high",
+    "audio_codec": "aac",
+    "audio_rate": 48000,
+    "audio_channels": 2,
+    "movflags": "+faststart",
+    "duracao_episodio_alvo_s": 92,
+    "duracao_max_s": 180,
+    "zona_segura_ui": {
+      "topo_px": 180,
+      "base_px": 280,
+      "laterais_px": 60,
+      "nota": "Evitar UI nativa: timestamp fica acima da faixa inferior (~y=h-120); legendas acima do timestamp (~y=h-280); REC/PLAY abaixo da safe top."
+    }
+  },
+  "plataformas": {
+    "tiktok": {
+      "nome": "TikTok",
+      "arquivo_sufixo": "_tiktok.mp4",
+      "video_bitrate": "6M",
+      "maxrate": "8M",
+      "bufsize": "12M",
+      "audio_bitrate": "192k",
+      "preset": "medium",
+      "duracao_recomendada_s": [15, 60],
+      "duracao_max_s": 180,
+      "notas": "Safe zones fortes no topo (username) e base (legenda nativa/botões). Prefira 9:16 1080x1920 30fps."
+    },
+    "reels": {
+      "nome": "Instagram Reels",
+      "arquivo_sufixo": "_reels.mp4",
+      "video_bitrate": "5M",
+      "maxrate": "7M",
+      "bufsize": "10M",
+      "audio_bitrate": "160k",
+      "preset": "medium",
+      "duracao_recomendada_s": [15, 90],
+      "duracao_max_s": 90,
+      "notas": "Reels corta em ~90s. UI inferior e lateral direita cobrem conteúdo; manter OSD e legendas nas zonas documentadas."
+    },
+    "shorts": {
+      "nome": "YouTube Shorts",
+      "arquivo_sufixo": "_shorts.mp4",
+      "video_bitrate": "8M",
+      "maxrate": "10M",
+      "bufsize": "16M",
+      "audio_bitrate": "192k",
+      "preset": "medium",
+      "duracao_recomendada_s": [15, 60],
+      "duracao_max_s": 180,
+      "notas": "Shorts aceita até ~3 min; UI inferior e lateral. Bitrate um pouco mais alto que TikTok/Reels."
+    }
+  }
+}

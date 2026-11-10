@@ -1,0 +1,39 @@
+arquivo,tipo,titulo,autor,fonte_url,licenca,atribuicao_exigida,usado_em,data
+vhs-hiss-anoisesrc,sfx,Hiss VHS sintético (anoisesrc pink/brown),Cinestudio Editor (gerado localmente),lavfi:anoisesrc,gerado localmente,nao,pipeline + ep01 stems,2026-11-09
+vhs-glitch-noise,sfx,Ruído de glitch/tracking (anoisesrc white),Cinestudio Editor (gerado localmente),lavfi:anoisesrc,gerado localmente,nao,pipeline FX glitch,2026-11-09
+cicadas-samwd-414411.mp3,sfx,Mineiros Brasil selva dusk chorus,samwd,https://freesound.org/people/samwd/sounds/414411/,CC0,nao,ep01 ambiente (cigarras),2026-11-09
+wind-borgory-751473.mp3,sfx,Soft Wind in the Trees,Borgory,https://freesound.org/people/Borgory/sounds/751473/,CC0,nao,ep01 ambiente (vento),2026-11-09
+leaves-wax_vibe-635875.mp3,sfx,Stepping on dry leaves,Wax_vibe,https://freesound.org/people/Wax_vibe/sounds/635875/,CC0,nao,ep01 passos/folhas,2026-11-09
+breathing-owlstorm-151206.mp3,sfx,Female Breathing heavily,OwlStorm / Ashe Kirk,https://freesound.org/people/OwlStorm/sounds/151206/,CC0,nao,ep01 respiração gancho/fuga,2026-11-09
+branches-kierankeegan-434555.mp3,sfx,Branches being snapped,KieranKeegan,https://freesound.org/people/KieranKeegan/sounds/434555/,CC0,nao,ep01 estalo de galho,2026-11-09
+vcr-rewind-lukacafuka-750857.mp3,sfx,VCR fast rewinding,LukaCafuka,https://freesound.org/people/LukaCafuka/sounds/750857/,CC0,nao,ep01 rebobinar,2026-11-09
+horse-borzsounds-843303.mp3,sfx,Coconut Horse Walking,BorzSounds,https://freesound.org/people/BorzSounds/sounds/843303/,CC0,nao,ep01 flash Fita 02 cascos,2026-11-09
+chain-bruno-670853.mp3,sfx,horse steps and chain,bruno.auzet,https://freesound.org/people/bruno.auzet/sounds/670853/,CC0,nao,disponivel (backup corrente),2026-11-09
+vcr-vhs-playback-bigsoundbank-2691.mp3,sfx,VCR: VHS playback,BigSoundBank / La Sonothèque,https://bigsoundbank.com/vcr-vhs-playback-s2691.html,CC0,nao,ep01 cartela/playback VHS,2026-11-09
+electric-switch-bigsoundbank-0026.mp3,sfx,Electric switch,BigSoundBank / La Sonothèque,https://bigsoundbank.com/electric-switch-s0026.html,CC0,nao,ep01 clique REC,2026-11-09
+iron-bar-falls-bigsoundbank-0235.mp3,sfx,Iron bar falls #2,BigSoundBank / La Sonothèque,https://bigsoundbank.com/iron-bar-falls-2-s0235.html,CC0,nao,ep01 queda da câmera,2026-11-09
+heavy-chain-bigsoundbank-0359.mp3,sfx,Heavy chain,BigSoundBank / La Sonothèque,https://bigsoundbank.com/sound-359-heavy-chain.html,CC0,nao,ep01 flash Fita 02 corrente,2026-11-09
+pt_BR-cadu-medium.onnx,voz_guia_provisoria,Piper pt_BR cadu medium,OHF-Voice / rhasspy piper-voices (dataset CC0; finetune from rdh CC0),https://huggingface.co/rhasspy/piper-voices/tree/main/pt/pt_BR/cadu/medium,CC0,nao,ep01 voz guia Piper (Tião/Benedito),2026-11-09
+pt_BR-jeff-medium.onnx,voz_guia_provisoria,Piper pt_BR jeff medium,OHF-Voice / rhasspy piper-voices (dataset CC0; finetune from rdh CC0),https://huggingface.co/rhasspy/piper-voices/tree/main/pt/pt_BR/jeff/medium,CC0,nao,ep01 voz guia Piper (Marta/Dudu),2026-11-09
+kokoro-v1.0.onnx,voz_guia_provisoria,Kokoro TTS 82M v1.0 (modelo),hexgrad / @rzvzn,https://huggingface.co/hexgrad/Kokoro-82M,Apache-2.0,nao,avisos-ep01 voz guia (runtime+pesos),2026-11-09
+voices-v1.0.bin,voz_guia_provisoria,Kokoro voicepack v1.0 (pm_alex Osvaldo; pf_dora interferencia),hexgrad / Kokoro-82M VOICES.md,https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md,Apache-2.0 (dataset de treino inclui Koniwa CC BY 3.0 e SIWIS CC BY 4.0 — atribuir),sim (Koniwa e SIWIS no treino do modelo),avisos-ep01 voz guia provisoria,2026-11-09
+vinheta-vibrafone-avisos,sfx,Tres notas de vibrafone + tom de prefixo (e versao desafinada),Cinestudio Editor (sintetizado localmente com numpy),gerado localmente,gerado localmente,nao,avisos-ep01 vinheta AM 870,2026-11-09
+am-chiado-hum-60hz,sfx,Chiado AM + hum 60 Hz,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep01 cama de transmissao,2026-11-09
+clique-projetor-avisos,sfx,Clique mecanico de projetor de slides,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep01 cartela p2,2026-11-09
+clac-eletrico-avisos,sfx,Clac eletrico de poste apagando,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep01 p6 (2.0s e 3.6s do plano),2026-11-09
+rangido-cadeira-avisos,sfx,Rangido de madeira da cadeira,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep01 p5 apos "de quem e a cadeira",2026-11-09
+dial-whistle-avisos,sfx,Assobio de sintonia AM,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep01 p9 interferencia,2026-11-09
+queima-pelicula-sizzle,sfx,Chiado de queima de pelicula,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep01 p9,2026-11-09
+sirene-barragem-avisos,sfx,Sirene grave da barragem (assinatura da serie),Cinestudio Editor (sintetizado localmente com numpy),gerado localmente,gerado localmente,nao,avisos-ep02 (p10 longe) e avisos-ep03 (p10-p11),2026-11-10
+rangido-madeira-avisos-ep02,sfx,Rangido de madeira apos 'ocupada',Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep02 p7 ~0:50.8,2026-11-10
+vinheta-vibrafone-avisos-ep02,sfx,Tres notas de vibrafone + tom de prefixo (mesmo metodo do ep01),Cinestudio Editor (sintetizado localmente com numpy),gerado localmente,gerado localmente,nao,avisos-ep02 vinheta 0:09,2026-11-10
+clique-projetor-avisos-ep02,sfx,Clique mecanico de projetor de slides,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep02 cartela p2,2026-11-10
+dial-whistle-avisos-ep02,sfx,Assobio de sintonia AM,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep02 entrada da interferencia 0:59,2026-11-10
+am-chiado-hum-60hz-ep02,sfx,Chiado AM + hum 60 Hz,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep02 cama de transmissao,2026-11-10
+kokoro-v1.0-ep02,voz_guia_provisoria,Kokoro TTS 82M v1.0 + voicepack (pm_alex Osvaldo; pf_dora interferencia),hexgrad / @rzvzn,https://huggingface.co/hexgrad/Kokoro-82M,Apache-2.0 (dataset de treino inclui Koniwa CC BY 3.0 e SIWIS CC BY 4.0 — atribuir),sim (Koniwa e SIWIS no treino do modelo),avisos-ep02 voz guia provisoria,2026-11-10
+sino-relogio-avisos-ep03,sfx,Sino curto de relogio de praca,Cinestudio Editor (sintetizado localmente com numpy),gerado localmente,gerado localmente,nao,avisos-ep03 p6 ~0:37,2026-11-10
+vinheta-vibrafone-avisos-ep03,sfx,Tres notas de vibrafone + tom de prefixo (mesmo metodo do ep01),Cinestudio Editor (sintetizado localmente com numpy),gerado localmente,gerado localmente,nao,avisos-ep03 vinheta 0:11,2026-11-10
+clique-projetor-avisos-ep03,sfx,Clique mecanico de projetor de slides,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep03 cartela p2,2026-11-10
+dial-whistle-avisos-ep03,sfx,Assobio de sintonia AM,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep03 interferencia do meio 0:43,2026-11-10
+am-chiado-hum-60hz-ep03,sfx,Chiado AM + hum 60 Hz,Cinestudio Editor (sintetizado localmente),gerado localmente,gerado localmente,nao,avisos-ep03 cama de transmissao,2026-11-10
+kokoro-v1.0-ep03,voz_guia_provisoria,Kokoro TTS 82M v1.0 + voicepack (pm_alex Osvaldo; pf_dora interferencia),hexgrad / @rzvzn,https://huggingface.co/hexgrad/Kokoro-82M,Apache-2.0 (dataset de treino inclui Koniwa CC BY 3.0 e SIWIS CC BY 4.0 — atribuir),sim (Koniwa e SIWIS no treino do modelo),avisos-ep03 voz guia provisoria,2026-11-10

@@ -1,0 +1,32 @@
+[Script Info]
+Title: Fitas da Serra Ep01
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+; Preferência Lucas: frases curtas, discretas, cinematográficas; máx 2 linhas; caixa preta semitransparente
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Legenda,DejaVu Sans,36,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,3,4,0,2,70,70,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.00,0:00:06.80,Legenda,,0,0,0,,Tá gravando, Tião?
+Dialogue: 0,0:00:07.00,0:00:08.50,Legenda,,0,0,0,,Tá. Pode ir.
+Dialogue: 0,0:00:10.00,0:00:15.00,Legenda,,0,0,0,,Em Capela do Sereno,\Na terra recusou um homem.
+Dialogue: 0,0:00:17.00,0:00:21.50,Legenda,,0,0,0,,Bateu na mãe.\NA terra cuspiu ele de volta.
+Dialogue: 0,0:00:21.50,0:00:22.80,Legenda,,0,0,0,,Seco. Tá lá na figueira.
+Dialogue: 0,0:00:22.80,0:00:24.00,Legenda,,0,0,0,,— O senhor já viu ele?\N— Todo dia.
+Dialogue: 0,0:00:25.00,0:00:28.00,Legenda,,0,0,0,,Tião, a bateria aguenta?\NMeia hora.
+Dialogue: 0,0:00:29.00,0:00:31.00,Legenda,,0,0,0,,[as cigarras param]
+Dialogue: 0,0:00:35.00,0:00:37.00,Legenda,,0,0,0,,Não tem nada aqui.
+Dialogue: 0,0:00:42.00,0:00:44.50,Legenda,,0,0,0,,É a varanda do seu Benedito.
+Dialogue: 0,0:00:46.00,0:00:50.00,Legenda,,0,0,0,,Ele vê ele todo dia.\NNunca filmamos a cara dele.
+Dialogue: 0,0:00:51.00,0:00:52.00,Legenda,,0,0,0,,Volta a fita.
+Dialogue: 0,0:00:56.00,0:00:58.00,Legenda,,0,0,0,,[respiração]
+Dialogue: 0,0:01:03.00,0:01:04.50,Legenda,,0,0,0,,[galho estala]
+Dialogue: 0,0:01:09.00,0:01:12.00,Legenda,,0,0,0,,Corre, Tião! Dudu!
+Dialogue: 0,0:01:18.00,0:01:22.00,Legenda,,0,0,0,,[silêncio]
+Dialogue: 0,0:01:25.00,0:01:27.50,Legenda,,0,0,0,,Tião?

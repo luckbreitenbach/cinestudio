@@ -1,0 +1,123 @@
+{
+  "episodio": "fitas-da-serra-ep01",
+  "master_video": "/workspace/cinestudio/06-videos/fitas-da-serra-ep01/fitas-da-serra-ep01_master.mp4",
+  "stem_ambiente_sfx": "/workspace/cinestudio/06-videos/fitas-da-serra-ep01/stems/stem_ambiente_sfx.wav",
+  "stem_voz_placeholder": "/workspace/cinestudio/06-videos/fitas-da-serra-ep01/stems/stem_voz_placeholder.wav",
+  "sample_rate": 48000,
+  "duration_s": 92.1,
+  "instrucao": "Substitua stem_voz_placeholder.wav por uma faixa de voz mixada (mesma duração/sample rate). Rode remix_with_voice.sh sem refazer a montagem de vídeo.",
+  "falas": [
+    {
+      "id": "marta_gravando",
+      "personagem": "Marta",
+      "in": 4.833333,
+      "out": 6.333333,
+      "texto": "Tá gravando, Tião?"
+    },
+    {
+      "id": "tiao_pode",
+      "personagem": "Tião",
+      "in": 6.533333000000001,
+      "out": 7.833333,
+      "texto": "Tá. Pode ir."
+    },
+    {
+      "id": "marta_standup",
+      "personagem": "Marta",
+      "in": 9.333333,
+      "out": 14.833333,
+      "texto": "Em Capela do Sereno, dizem que a terra recusou um homem."
+    },
+    {
+      "id": "benedito_1",
+      "personagem": "Benedito",
+      "in": 16.333333,
+      "out": 20.333333,
+      "texto": "Bateu na mãe. Quando morreu, a terra cuspiu ele de volta."
+    },
+    {
+      "id": "benedito_2",
+      "personagem": "Benedito",
+      "in": 20.433332999999998,
+      "out": 22.033333,
+      "texto": "Seco. Tá lá na figueira."
+    },
+    {
+      "id": "marta_viu",
+      "personagem": "Marta",
+      "in": 22.133333,
+      "out": 22.833333,
+      "texto": "O senhor já viu ele?"
+    },
+    {
+      "id": "benedito_todo",
+      "personagem": "Benedito",
+      "in": 22.833333,
+      "out": 23.633333,
+      "texto": "Todo dia."
+    },
+    {
+      "id": "dudu_bateria",
+      "personagem": "Dudu",
+      "in": 24.233333,
+      "out": 25.833333,
+      "texto": "Tião, a bateria aguenta?"
+    },
+    {
+      "id": "tiao_meia",
+      "personagem": "Tião",
+      "in": 25.833333,
+      "out": 26.833333,
+      "texto": "Meia hora."
+    },
+    {
+      "id": "marta_nada",
+      "personagem": "Marta",
+      "in": 33.833332999999996,
+      "out": 36.333332999999996,
+      "texto": "Não tem nada aqui."
+    },
+    {
+      "id": "dudu_varanda",
+      "personagem": "Dudu",
+      "in": 41.333332999999996,
+      "out": 44.333332999999996,
+      "texto": "Marta... é a varanda do seu Benedito."
+    },
+    {
+      "id": "marta_todo",
+      "personagem": "Marta",
+      "in": 45.333332999999996,
+      "out": 47.333332999999996,
+      "texto": "Ele disse que vê ele todo dia."
+    },
+    {
+      "id": "tiao_cara",
+      "personagem": "Tião",
+      "in": 47.333332999999996,
+      "out": 49.333332999999996,
+      "texto": "A gente nunca filmou a cara dele."
+    },
+    {
+      "id": "marta_volta",
+      "personagem": "Marta",
+      "in": 49.833332999999996,
+      "out": 51.333332999999996,
+      "texto": "Volta a fita."
+    },
+    {
+      "id": "marta_corre",
+      "personagem": "Marta",
+      "in": 67.833333,
+      "out": 70.833333,
+      "texto": "Corre, Tião! Dudu!"
+    },
+    {
+      "id": "marta_tiao",
+      "personagem": "Marta",
+      "in": 84.333333,
+      "out": 86.333333,
+      "texto": "Tião?"
+    }
+  ]
+}

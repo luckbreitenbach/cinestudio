@@ -1,0 +1,24 @@
+[Script Info]
+Title: Fitas da Serra Ep01 Preview
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+; BorderStyle=3 = caixa opaca/semitransparente; BackColour &HAARRGGBB (AA=alpha, 96~60% preto)
+; MarginV=300 sobe a legenda acima da faixa do timestamp (~y=h-96)
+Style: Legenda,DejaVu Sans,36,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,3,4,0,2,70,70,300,1
+Style: Cartela,VT323,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.40,0:00:02.20,Cartela,,0,0,0,,{\an5\pos(540,900)}Esta fita foi encontrada\Ndentro de uma árvore.
+Dialogue: 0,0:00:05.40,0:00:06.80,Legenda,,0,0,0,,Tá gravando, Tião?
+Dialogue: 0,0:00:06.90,0:00:08.00,Legenda,,0,0,0,,Tá. Pode ir.
+Dialogue: 0,0:00:08.40,0:00:11.20,Legenda,,0,0,0,,Em Capela do Sereno,\Na terra recusou um homem.
+Dialogue: 0,0:00:11.60,0:00:13.80,Legenda,,0,0,0,,A terra cuspiu ele de volta.
+Dialogue: 0,0:00:14.80,0:00:16.00,Legenda,,0,0,0,,Volta a fita.
+Dialogue: 0,0:00:18.40,0:00:19.80,Legenda,,0,0,0,,Corre, Tião!
